@@ -36,4 +36,5 @@ y CSS, incluyendo técnicas Flexbox, CSS Grids y Responsive Web Design.
 La página web es sobre un emprendimiento de "Audífonos". El foco del emprendimiento está en ofrecer audífonos de alta gama, lo más nuevo y a la vanguardia de la tecnología de audífonos (auriculares) para quienes gozan de escuchar música, podcasts u otros usos relacionados con obtener la mejor calidad de sonido. También ofrecen un boletín con noticias sobre lo último en el desarrollo de tecnologías relacionadas con los dispositivos de sonido para así el usuario pueda comprobar que el emprendimiento realmente está ofreciendo lo mejor del mercado. 
 
 ## 3. URL
+Puedes ver el proyecto en el siguiente enlace: <https://github.com/neocastrock/landingVentas.git
 
